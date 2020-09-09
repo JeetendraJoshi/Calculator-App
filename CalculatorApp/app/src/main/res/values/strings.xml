@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CalculatorApp</string>
+    <string name="XSQUARED">x<sup>2</sup></string>
+    <string name = "SQUARESYMBOL"> <sup>2</sup></string>
+</resources>
